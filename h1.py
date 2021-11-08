@@ -1,6 +1,7 @@
 #calculator
-def(x, y):
+def f (x, y):
   #tow line
-  addition = 
-  multiplcation = 
+  addition = x+y
+  multiplcation = x*y
   return addition, multiplcation
+
